@@ -1,0 +1,2 @@
+webpackJsonp([3],{"8CN/":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s=n("7+uW"),a=n("/ocq"),r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("test components")])},staticRenderFns:[]},u=n("VU/8")({name:"page1-test",data:function(){return{}}},r,!1,null,null,null).exports;s.a.use(a.a);t.default=new a.a({routes:[{path:"/Test",name:"Test",component:u}]})}},["8CN/"]);
+//# sourceMappingURL=router.c7c7b920aaeaf83f1956.js.map

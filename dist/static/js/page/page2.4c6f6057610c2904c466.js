@@ -1,0 +1,2 @@
+webpackJsonp([2],{jBSb:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var p=t("7+uW"),a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  page2\n")])},staticRenderFns:[]},r=t("VU/8")({name:"app",data:function(){return{}}},a,!1,null,null,null).exports;p.a.config.productionTip=!1,new p.a({el:"#app",template:"<App/>",components:{App:r}})}},["jBSb"]);
+//# sourceMappingURL=page2.4c6f6057610c2904c466.js.map
