@@ -146,3 +146,11 @@ http://localhost:8081/page/page2.html （页面二）
 需要修改config/index.js中build的配置
 assetsPublicPath: '../' 
 ```
+
+## Demo
+
+```
+[page1](https://hustwxw.github.io/Vue-MultiplePage/dist/page/page1.html])
+[page1#Test](https://hustwxw.github.io/Vue-MultiplePage/dist/page/page1.html#Test])
+[page2](https://hustwxw.github.io/Vue-MultiplePage/dist/page/page2.html])
+```
