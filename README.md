@@ -149,8 +149,9 @@ assetsPublicPath: '../'
 
 ## Demo
 
-```
+> page1.html
 [page1](https://hustwxw.github.io/Vue-MultiplePage/dist/page/page1.html])
+> page1.html#Test
 [page1#Test](https://hustwxw.github.io/Vue-MultiplePage/dist/page/page1.html#Test])
+> page2
 [page2](https://hustwxw.github.io/Vue-MultiplePage/dist/page/page2.html])
-```
